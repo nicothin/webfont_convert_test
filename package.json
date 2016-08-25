@@ -1,0 +1,13 @@
+{
+  "name": "webfont_convert_test",
+  "version": "1.0.0",
+  "description": "Проверка качества работы веб-сервисов и локальных инструментов при конвертировании шрифтов.",
+  "scripts": {},
+  "author": "Nikolay Gromov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {}
+}

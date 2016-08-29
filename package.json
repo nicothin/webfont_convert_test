@@ -9,5 +9,9 @@
     "type": "git",
     "url": ""
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "fontmin": "^0.9.6",
+    "ttf2woff": "^2.0.1",
+    "ttf2woff2": "^2.0.3"
+  }
 }
